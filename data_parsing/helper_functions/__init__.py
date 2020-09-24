@@ -1,0 +1,1 @@
+from data_parsing.helper_functions.insert_into_db import insert_into_db
